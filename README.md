@@ -1,2 +1,2 @@
-# CupidLite
-Lite version of Cupid using OStim.
+# Eros
+Coming soon.
