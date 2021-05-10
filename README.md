@@ -136,4 +136,4 @@ If the MCM locks up or a menu wont load press tab until you're back in game, the
 
 Disable the voice pack in the BBLS MCM if you don't like the voices during sex. Check the OStim MCM if you want to tweak OSex (you'll probably want to). Disable everything in the Open Cities MCM. Tweak the Schlongs of Skyrim MCM if you want and you're done.
 
-Ask in the Eros support channel on the Discord if you need any help. 
+Ask in the Eros support channel on the Discord if you need any help. (I'll ask you to restart your PC 70% of the time, it almost always fixes issues. Skyrim is weird.)
