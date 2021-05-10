@@ -84,7 +84,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Copy Game Folder Files
 
-- Navigate back to your Cupid installation folder.
+- Navigate back to your Eros installation folder.
 - Open "Game Folder Files"
 - Copy everything inside the Game Folder Files folder.
 - Paste it into your Skyrim SE directory.
@@ -111,7 +111,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Cupid Guide
+# Eros Guide
 
 ## Creating your character
 
