@@ -1,6 +1,12 @@
 # Eros
 This readme will get a re-write later.
 
+This is an NSFW Skyrim Special Edition modlist for Wabbajack.
+
+You must be of legal age in your country to use this list.
+
+What to expect: OStim with most of it's addons including the massive expansion for it: ORomance. Open Cities, ton of options for character customization, animated poses, and soon, a small but high quality selection of content and combat overhauls.
+
 # Pre-Installation
 
 ## Disable the Overlay
@@ -126,6 +132,8 @@ If you want your character to stay still open the console, click on yourself and
 
 ## In-Game MCM Options
 
-This part is WIP
+If the MCM locks up or a menu wont load press tab until you're back in game, then reopen the MCM menu.
 
 Disable the voice pack in the BBLS MCM if you don't like the voices during sex. Check the OStim MCM if you want to tweak OSex (you'll probably want to). Disable everything in the Open Cities MCM. Tweak the Schlongs of Skyrim MCM if you want and you're done.
+
+Ask in the Eros support channel on the Discord if you need any help. 
